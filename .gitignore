@@ -3,3 +3,7 @@
 __pycache__/
 *.pyc
 eval_results*.json
+env.bat
+env.bat 
+env.ps1 
+.env 
